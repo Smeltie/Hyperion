@@ -116,6 +116,9 @@ However it is doable with the right settings!<br>
 ## Assembly
 
 Assembly is rather straight forward however there are some slight things to look out for.<br>
+You might have to slightly sand the sides of the tray ever so slightly depending on your printers tolerances, not all printers are created equal.<br>
+There should not be a need to sand anything but keep it in mind if something is just too tight.<br>
+It is normal for the tray to snap into place a little bit, it's friction fit after all.<br>
 I suggest soldering things out of the case and using the case/tray as a reference towards wire lenght, you want to keep your wires rather short like this:<br>
 
 ![Imgur](https://i.imgur.com/UCcndadm.jpg)<br>
