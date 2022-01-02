@@ -38,7 +38,7 @@ So if your battery is not a 503759 or 804040 but it is smaller than either one i
 You might have to fill up the space a little bit to prevent the battery from sliding around.
 A good example would be a 503450, which would fit just fine.<br>
 
-###### But what about the BNO08X? <br>
+### But what about the BNO08X? <br>
 Sadly as of now it is virtually impossible to get a BNO chip at a reasonable price.<br>
 For that reason i'm sorry to say that this case does not ***yet*** officially support the BNO08X chips.<br>
 If it does fit please let me know through Discord I am Smeltie#1999 on the [Official SlimeVR Discord server](https://discord.gg/SlimeVR)<br>
@@ -75,11 +75,12 @@ You would need the following:<br>
 <br>
 
 
-### If you want to have a tracker that uses a AUX/Extension module beware<br>
+#### If you want to have a tracker that uses a AUX/Extension module beware<br>
 For those you would need the following:<br>
 *- Case_503759_AUX.stl*<br>
 *- Lid_503759_AUX.stl*<br>
-*The tray is not dependant on the AUX/Extension feature.*
+
+*The tray is not dependant on the AUX/Extension feature!*
 
 
 ## Printing
@@ -108,16 +109,49 @@ However it is doable with the right settings!<br>
 
 *These settings worked well for me, they might not work for everyone*<br>
 *Especially layer height might be challenging for some printers*<br>
-*Just take your time and take it slow, i've printed more than a handfull now*<br>
+*Just take your time and take it slow, i've printed more than a handfull now.*<br>
 *The reason i say don't print in the middle is because on many printers that's a low spot, and this would hinder the adhesion needed to keep this little part stuck down.*<br>
 
 
 ## Assembly
 
+Assembly is rather straight forward however there are some slight things to look out for.<br>
+I suggest soldering things out of the case and using the case/tray as a reference towards wire lenght, you want to keep your wires rather short like this:<br>
+
+![Imgur](https://i.imgur.com/NCCDCVPm.jpg)<br>
+
+Otherwise it might not close, there should be more than enough space for your wires.<br>
+So you don't have to make them extremely short just keep it manageable.<br>
+
+#### The Switch
+After the switch it printed the first layer on the hole might be a bit too tight.<br>
+In this case you can take something like an hobby knife and slightly open that first layer up a little.<br>
+<br>
+
+#### The Lid
+To install the lid it is best practice to install it as follows:<br>
+Place the lid on the case at an angle with the back side first (vents).<br>
+So that the notches align, after this lower the front and snap it shut.<br>
+To remove the lid again place a fingernail or pry tool between the lid notch and the power switch and pry upwards, the lid should click open.<br>
+
+![Imgur](https://i.imgur.com/pfahA1zm.jpg)<br>
+<br>
+
+#### The Strap
+The strap can be installed both ways, either underneath or overtop.<br>
+Underneath gives by far the nicest looking and cleanest result.<br>
+Overtop looks less visually appealing but has the added benefit that the strap helps keep the lid shut.<br>
+However with the strap overtop the tracker case is directly against your body/clothing.<br>
+
 
 
 ## Links
-
-
+Here are some useful and fun resources:
+- [The Docs (SlimeVR Documentation)](https://docs.slimevr.dev/)
+- [Github Repository SlimeVR](https://github.com/SlimeVR/)
+- [Github Repository Hyperion](https://github.com/Smeltie/Hyperion)
+- [Thingiverse Hyperion]()
+- [SmeltieVR YouTube]()
 
 ## License
+This project is licensed under the MIT license.<br>
