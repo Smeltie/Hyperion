@@ -118,7 +118,7 @@ However it is doable with the right settings!<br>
 Assembly is rather straight forward however there are some slight things to look out for.<br>
 I suggest soldering things out of the case and using the case/tray as a reference towards wire lenght, you want to keep your wires rather short like this:<br>
 
-![Imgur](https://i.imgur.com/NCCDCVPm.jpg)<br>
+![Imgur](https://i.imgur.com/UCcndadm.jpg)<br>
 
 Otherwise it might not close, there should be more than enough space for your wires.<br>
 So you don't have to make them extremely short just keep it manageable.<br>
