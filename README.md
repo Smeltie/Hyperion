@@ -1,3 +1,5 @@
+![Imgur](https://i.imgur.com/ebOnhmL.png) <br>
+
 # Hyperion case for DIY SlimeVR!
 
 The Hyperion is one of the smallest and slimmest cases to date for your DIY SlimeVR Trackers. <br>
