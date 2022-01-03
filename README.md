@@ -31,7 +31,10 @@ For the Hyperion you will need the following components:<br>
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
 - [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)<br>
 
-*These straps are from the docs and are merely 25mm wide, the Hyperion is designed to fit up to 40mm straps for extra stability.*
+You can also order these parts elsewhere through sites like Amazon with a slightly higher markup, but they might arrive much faster depending on where you live.<br>
+
+*The straps from the docs are only 25mm wide, the Hyperion is designed to fit up to 40mm straps for extra stability.*<br>
+*Be aware that there are different versions of the TP4056 which are smaller and have less soldering pads, there is also a microUSB version which does not work with this case avoid these too if you're planning on using the Hyperion case.*<br>
 
 ## Compatibility
 
@@ -140,14 +143,11 @@ Place the lid on the case at an angle with the back side first (vents).<br>
 So that the notches align, after this lower the front and snap it shut.<br>
 To remove the lid again place a fingernail or pry tool between the lid and the power switch and pry upwards, the lid should snap open.<br>
 
-![Imgur](https://i.imgur.com/pfahA1zm.jpg)<br>
+<a href="https://imgur.com/p8z1lyn"><img src="https://i.imgur.com/p8z1lyn.gif" title="source: imgur.com" /></a> <br>
 <br>
 
 #### The Strap
-The strap can be installed both ways, either underneath or overtop.<br>
-Underneath gives by far the nicest looking and cleanest result.<br>
-Overtop looks less visually appealing but has the added benefit that the strap helps keep the lid shut.<br>
-However with the strap overtop the tracker case is directly against your body/clothing.<br>
+The strap is meant to be ran underneath the tracker, this is because otherwise the powerswitch would be obstructed.<br>
 
 
 
