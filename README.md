@@ -7,6 +7,10 @@ With it's completely Tool-less design and tolerances fine tuned specifically for
 The Hyperion is both easy to print and assemble!<br>
 Every part is carefully thought out and clicks together with a satisfying snap.<br>
 The Hyperion offers support for various Battery sizes and types.<br>
+<br>
+
+<a href="https://imgur.com/9vDfYJD"><img src="https://i.imgur.com/9vDfYJD.gif" title="source: imgur.com" /></a> <br>
+<br>
 
 ## Index
 - [Components](#Components)
