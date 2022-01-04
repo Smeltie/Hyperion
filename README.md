@@ -124,13 +124,15 @@ However it is doable with the right settings!<br>
 
 ## Assembly
 
+![output](https://user-images.githubusercontent.com/38034111/148065707-96a622b4-d118-4901-adf6-c36dceab3feb.gif) <br>
+
 Assembly is rather straight forward however there are some slight things to look out for.<br>
 You might have to slightly sand the sides of the tray depending on your printers tolerances, not all printers are created equal.<br>
 There should not be a need to sand anything but keep it in mind if something is just too tight.<br>
 It is normal for the tray to snap into place a little bit, it's friction fit after all.<br>
 I suggest soldering things out of the case and using the case/tray as a reference towards wire length, you want to keep your wires rather short like this:<br>
 
-<a href="https://imgur.com/XVlNbSe"><img src="https://i.imgur.com/XVlNbSe.gif" title="source: imgur.com" /></a><br>
+![Imgur](https://i.imgur.com/UCcndadm.jpg) <br>
 
 Otherwise it might not close, there should be more than enough space for your wires in the case.<br>
 So you don't have to make them extremely short just keep it manageable.<br>
