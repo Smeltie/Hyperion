@@ -1,0 +1,26 @@
+# Blender MTL File: 'pcb.blend'
+# Material Count: 2
+
+newmtl tp4056
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd case\\reference parts\\tp4056.png
+map_d case\\reference parts\\tp4056.png
+
+newmtl usb-c
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd case\\reference parts\\usb-c.png
+map_d case\\reference parts\\usb-c.png
