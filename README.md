@@ -53,7 +53,6 @@ Sadly as of now it is virtually impossible to get a BNO chip at a reasonable pri
 For that reason I'm sorry to say that this case does not ***yet*** officially support the BNO08X chips.<br>
 If it does fit please let me know through Discord I'm [@Smeltie#1999](https://discord.gg/SlimeVR) on the [Official SlimeVR Discord server](https://discord.gg/SlimeVR)<br>
 <br>
-![Imgur](https://i.imgur.com/Uzk8tyqt.png)
 
 ## Versions
 
@@ -131,10 +130,11 @@ There should not be a need to sand anything but keep it in mind if something is 
 It is normal for the tray to snap into place a little bit, it's friction fit after all.<br>
 I suggest soldering things out of the case and using the case/tray as a reference towards wire length, you want to keep your wires rather short like this:<br>
 
-![Imgur](https://i.imgur.com/UCcndadm.jpg)<br>
+<a href="https://imgur.com/XVlNbSe"><img src="https://i.imgur.com/XVlNbSe.gif" title="source: imgur.com" /></a><br>
 
 Otherwise it might not close, there should be more than enough space for your wires in the case.<br>
 So you don't have to make them extremely short just keep it manageable.<br>
+<br>
 
 #### The Switch
 After printing the switch the bottom layer of the hole might be a little too tight due to elephants foot or squish.<br>
