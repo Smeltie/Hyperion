@@ -162,7 +162,9 @@ Here are some useful and fun resources:
 - [The Docs (SlimeVR Documentation)](https://docs.slimevr.dev/)
 - [Github Repository SlimeVR](https://github.com/SlimeVR/)
 - [Github Repository Hyperion](https://github.com/Smeltie/Hyperion)
-- [Thingiverse Hyperion]()
+- [Thingiverse Hyperion](https://www.thingiverse.com/thing:5186756)
+- [Cults3D Hyperion](https://cults3d.com/en/3d-model/gadget/hyperion-case-for-diy-slimevr)
+- [CGTraders Hyperion](https://www.cgtrader.com/free-3d-print-models/hobby-diy/electronics/hyperion-case-for-diy-slimevr)
 - [SmeltieVR YouTube](https://www.youtube.com/channel/UC4MEm3i0WxIGPyM8YBV9SSQ)
 - [SlimeVR Discord](https://discord.gg/SlimeVR)
 
