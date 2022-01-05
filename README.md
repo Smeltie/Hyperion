@@ -20,7 +20,7 @@ With its completely tool-less design and tolerances fine tuned specifically for 
 
 ## Components
 
-For the Hyperion you will need the following components:<br>
+For the Hyperion you will need the following components:
 
 - [TP4056](https://www.aliexpress.com/item/32649780468.html)
 - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)
@@ -29,12 +29,12 @@ For the Hyperion you will need the following components:<br>
 - [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest 503759 is smaller and usually higher capacity*)
     - [804040](https://www.aliexpress.com/item/33021202630.html)
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
-- [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)<br>
+- [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
 
-You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.<br>
+You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.
 
-*The straps from the SlimeVR docs are only 25mm wide, while the Hyperion is designed to fit up to 40mm straps for extra stability.*<br>
-*Be aware that there are different versions of the TP4056 which are smaller and have less soldering pads, there is also a microUSB version which does not work with this case. Avoid these two if you're planning on using the Hyperion case.*<br>
+*The straps from the SlimeVR docs are only 25mm wide, while the Hyperion is designed to fit up to 40mm straps for extra stability.*
+*Be aware that there are different versions of the TP4056 which are smaller and have less soldering pads, there is also a microUSB version which does not work with this case. Avoid these two if you're planning on using the Hyperion case.*
 
 ## Compatibility
 
