@@ -5,7 +5,7 @@
 The Hyperion is one of the smallest and slimmest cases to date for your DIY SlimeVR Trackers. <br>
 With its completely tool-less design and tolerances fine tuned specifically for FDM 3D Printers, the Hyperion is both easy to print and assemble! Every part is carefully thought out and clicks together with a satisfying snap, while offering support for various Battery sizes and types.
 
-<a href="https://imgur.com/9vDfYJD">![case](https://i.imgur.com/9vDfYJD.gif)</a> 
+![case](https://i.imgur.com/9vDfYJD.gif)
 
 
 ## Index
@@ -140,7 +140,7 @@ In this case you can take a hobby knife or similar and slightly open that first 
 To install the lid it is best practice to place the lid on the case at an angle with the back side first (vents) so that the notches align. Then lower the front and snap it shut.
 To remove the lid again place a fingernail or a pry tool between the lid and the power switch and pry upwards, the lid should snap open.
 
-<a href="https://imgur.com/p8z1lyn">![Imgur](https://i.imgur.com/p8z1lyn.gif)</a> 
+![The lid](https://i.imgur.com/p8z1lyn.gif)
 
 
 #### The Strap
