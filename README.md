@@ -3,12 +3,10 @@
 # Hyperion case for DIY SlimeVR!
 
 The Hyperion is one of the smallest and slimmest cases to date for your DIY SlimeVR Trackers. <br>
-With its completely tool-less design and tolerances fine tuned specifically for FDM 3D Printers, the Hyperion is both easy to print and assemble!<br>
-Every part is carefully thought out and clicks together with a satisfying snap, while offering support for various Battery sizes and types.<br>
-<br>
+With its completely tool-less design and tolerances fine tuned specifically for FDM 3D Printers, the Hyperion is both easy to print and assemble! Every part is carefully thought out and clicks together with a satisfying snap, while offering support for various Battery sizes and types.
 
-<a href="https://imgur.com/9vDfYJD"><img src="https://i.imgur.com/9vDfYJD.gif" title="source: imgur.com" /></a> <br>
-<br>
+<a href="https://imgur.com/9vDfYJD"><img src="https://i.imgur.com/9vDfYJD.gif" title="source: imgur.com" /></a> 
+
 
 ## Index
 - [Components](#Components)
@@ -56,11 +54,11 @@ There are a lot of different .STL files included in this project, as the Hyperio
 The names of the files indicate what the parts are for and which features they incorporate.<br>
 To clarify some of the terminology, the file name may have reference to the following:<br>
 
-*- AUX*: This part has an opening for a ribbon/JST cable to an Extension.<br>
-*- 503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).<br>
-*- 804040*: This means the part is meant for batteries that are 8x40x40mm (based on that batteries sizing).<br>
-*- Slime*: This part has the SlimeVR logo on it, mostly for the lid.<br>
-*- Blank*: This part has no print or logo on it, mostly for the lid.<br>
+- *AUX*: This part has an opening for a ribbon/JST cable to an Extension.<br>
+- *503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).<br>
+- *804040*: This means the part is meant for batteries that are 8x40x40mm (based on that batteries sizing).<br>
+- *Slime*: This part has the SlimeVR logo on it, mostly for the lid.<br>
+- *Blank*: This part has no print or logo on it, mostly for the lid.<br>
 
 
 ### So which parts do i need?
@@ -75,19 +73,19 @@ Of course this is totally dependent on the battery you chose, however you will h
 So for example, you bought a 503739 (or smaller) battery.<br>
 You would need the following:<br>
 
-*- Case_503759.stl*<br>
-*- Tray_503759.stl*<br>
-*- Lid_503759.stl*<br>
+- *Case_503759.stl*<br>
+- *Tray_503759.stl*<br>
+- *Lid_503759.stl*<br>
 
 *The switch in this case is universal and not dependant on battery size.*
 <br>
 
 
-#### If you want to have a tracker that uses an AUX/Extension module<br>
+#### If you want to have a tracker that uses an AUX/Extension module
 You would need the following:<br>
 
-*- Case_503759_AUX.stl*<br>
-*- Lid_503759_AUX.stl*<br>
+- *Case_503759_AUX.stl*<br>
+- *Lid_503759_AUX.stl*<br>
 
 *The tray is not dependent on the AUX/Extension feature.*
 
@@ -105,13 +103,13 @@ The lid you might want to turn 180 degrees so the flat side is against the bed:<
 #### The Switch
 The switch is a little small and harder to print, however it is doable with the right settings:<br>
 
-*- Bed Temperature* - 70c.<br>
-*- Initial layer speed* - 10mm/s.<br>
-*- Printing speed* - 20mm/s.<br>
-*- Infill* - 0%.<br>
-*- Layer height* - 0.08mm.<br>
-*- Location on the buildplate* - Close to the front or back not in the middle.<br>
-*- Build plate adhesion* - Brim.<br>
+- *Bed Temperature* - 70c.<br>
+- *Initial layer speed* - 10mm/s.<br>
+- *Printing speed* - 20mm/s.<br>
+- *Infill* - 0%.<br>
+- *Layer height* - 0.08mm.<br>
+- *Location on the buildplate* - Close to the front or back not in the middle.<br>
+- *Build plate adhesion* - Brim.<br>
 
 ![Imgur](https://i.imgur.com/j43d2Gm.png)<br>
 
