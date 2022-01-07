@@ -126,7 +126,7 @@ It is normal for the tray to snap into place a little bit, it's friction fit.
 
 I suggest soldering things out of the case and using the case/tray as a reference towards wire length, you want to keep your wires rather short like this:
 
-![Imgur](https://i.imgur.com/UCcndadm.jpg) 
+![Imgur](https://i.imgur.com/98pEBOu.jpg) 
 
 Excess wire length may cause issues with the fit, however there should be more than enough space for wires in the case. You don't have to make them extremely short just keep it manageable.
 
