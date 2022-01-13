@@ -3,7 +3,7 @@
 # Hyperion case for DIY SlimeVR!
 
 The Hyperion is one of the smallest and slimmest cases to date for your DIY SlimeVR Trackers. <br>
-With its completely tool-less design and tolerances fine tuned specifically for FDM 3D Printers, the Hyperion is both easy to print and assemble! Every part is carefully thought out and clicks together with a satisfying snap, while offering support for various Battery sizes and types.
+With its completely tool-less design and tolerances fine tuned specifically for FDM 3D Printers, the Hyperion is both easy to print and assemble! Every part is carefully thought out and clicks together with a satisfying snap, while offering support for various Battery sizes, switches and components.
 
 ![case](https://i.imgur.com/9vDfYJD.gif)
 
@@ -15,6 +15,7 @@ With its completely tool-less design and tolerances fine tuned specifically for 
 - [Printing](#Printing)
 - [Assembly](#Assembly)
 - [Links](#Links)
+- [Contributors](#Contributors)
 - [Contact](#Contact)
 - [License (MIT)](#License)
 
@@ -25,8 +26,10 @@ For the Hyperion you will need the following components:
 - [TP4056](https://www.aliexpress.com/item/32649780468.html)
 - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)
 - [Wemos D1 Mini](https://www.aliexpress.com/wholesale?SearchText=D1+mini)
-- [SS12D00G3 (switch)](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
-- [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest 503759 is smaller and usually higher capacity*)
+- [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
+    - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
+    - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
+- [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
     - [804040](https://www.aliexpress.com/item/33021202630.html)
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
 - [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
@@ -34,12 +37,13 @@ For the Hyperion you will need the following components:
 You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.
 
 *The straps from the SlimeVR docs are only 25mm wide, while the Hyperion is designed to fit up to 40mm straps for extra stability.*
-*Be aware that there are different versions of the TP4056 which are smaller and have less soldering pads, there is also a microUSB version which does not work with this case. Avoid these two if you're planning on using the Hyperion case.*
+*Be aware that there are different versions of the TP4056 which are smaller and have less soldering pads, avoid these.*  
+*The Micro-USB version of the TP4056 does work but isn't recommended.*
 
 ## Compatibility
 
-The Hyperion case offers compatibility for various battery types, for example the 503759 supports any battery that is equal to or smaller than 5x37x59mm.
-Please keep in mind your battery size when planning a build, in this example if you are not using a 503759 or 804040 but your battery is smaller it will still work with this design.
+The Hyperion case offers compatibility for various battery types, for example the 503759 supports any battery that is equal to or smaller than 5x37x59mm.  
+Please keep in mind your battery size when planning a build, in this example if you are not using a 503759 or 804040 but your battery is smaller it will still work with this design.  
 Be aware that if you use a smaller battery you may have to fill up the space a little bit to prevent the battery from sliding around, while a 503450 would fit just fine.
 
 ### But what about the BNO08X? 
@@ -50,24 +54,25 @@ If it does fit please let me know through Discord. I'm [@Smeltie#1999](https://d
 
 ## Versions
 
-There are a lot of different .STL files included in this project, as the Hyperion supports multiple Battery sizes and separate AUX/extension versions of each case and lid.
-The names of the files indicate what the parts are for and which features they incorporate.
-To clarify some of the terminology, the file name may have reference to the following:
+There are a lot of different .STL files included in this project, as the Hyperion supports multiple Battery sizes and separate AUX/extension versions of each case and lid.  
+The names of the files indicate what the parts are for and which features they incorporate.  
+To clarify some of the terminology, the file name may have a reference to the following:
 
 - *AUX*: This part has an opening for a ribbon/JST cable to an Extension.
 - *503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).
 - *804040*: This means the part is meant for batteries that are 8x40x40mm (based on that batteries sizing).
+- *SS22F32*: This indicates the part was designed for the switches mentioned in the docs.
 - *Slime*: This part has the SlimeVR logo on it, mostly for the lid.
 - *Blank*: This part has no print or logo on it, mostly for the lid.
 
 
 ### So which parts do i need?
-Of course this is totally dependent on the battery you chose, however you will have to print at least 4 components per tracker, which are:
+Of course this is totally dependent on the battery and switch you chose, however you will have to print at least 4 components per tracker, which are:
 
 - Case
 - Tray
 - Lid
-- Switch
+- Switch (*if you opted for the SS12D00G3*)
 
 
 So for example, you bought a 503739 (or smaller) battery, you would need the following:
@@ -76,8 +81,7 @@ So for example, you bought a 503739 (or smaller) battery, you would need the fol
 - *Tray_503759.stl*<br>
 - *Lid_503759.stl*<br>
 
-*The switch in this case is universal and not dependant on battery size.*
-
+*BEWARE! if you bought SS22F32 switches, make sure that the part name contains "SS22F32"*
 
 #### If you want to have a tracker that uses an AUX/Extension module
 You would need the following:
@@ -158,6 +162,10 @@ Here are some useful and fun resources:
 - [CGTraders Hyperion](https://www.cgtrader.com/free-3d-print-models/hobby-diy/electronics/hyperion-case-for-diy-slimevr)
 - [SmeltieVR YouTube](https://www.youtube.com/channel/UC4MEm3i0WxIGPyM8YBV9SSQ)
 - [SlimeVR Discord](https://discord.gg/SlimeVR)
+
+## Contributors
+I want to put out a sincere thank you to all the people that have helped and tested/measured out various items for this project.  
+Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper and Lemming.
 
 ## Contact
 If you experience any problems with your Hyperion or have any questions/suggestions?
