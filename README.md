@@ -44,7 +44,10 @@ You can also order these parts elsewhere through sites like Amazon with a higher
 
 The Hyperion case offers compatibility for various battery types, for example the 503759 supports any battery that is equal to or smaller than 5x37x59mm.  
 Please keep in mind your battery size when planning a build, in this example if you are not using a 503759 or 804040 but your battery is smaller it will still work with this design.  
-Be aware that if you use a smaller battery you may have to fill up the space a little bit to prevent the battery from sliding around, while a 503450 would fit just fine.
+Be aware that if you use a smaller battery you may have to fill up the space a little bit to prevent the battery from sliding around, while a 503450 would fit just fine.  
+  
+Hyperion also supports various switch types.  
+The case was originally designed to fit the smaller SS12D00G3 switches, but now also supports the SS22F32 (SS12F32 also works).
 
 ### But what about the BNO08X? 
 Sadly as of now it is virtually impossible to get a BNO chip at a reasonable price.
