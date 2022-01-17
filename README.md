@@ -24,15 +24,18 @@ With its completely tool-less design and tolerances fine tuned specifically for 
 For the Hyperion you will need the following components:
 
 - [TP4056](https://www.aliexpress.com/item/32649780468.html)
-- [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)
 - [Wemos D1 Mini](https://www.aliexpress.com/wholesale?SearchText=D1+mini)
+- [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
+- [IMU](https://docs.slimevr.dev/components-guide.html) (*BNO08x chips are currently in a pretty bad shortage*)
+    - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)  
+    - [BNO08x (Sold out!)](https://docs.slimevr.dev/components-guide.html)
 - [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
     - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
     - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
 - [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
     - [804040](https://www.aliexpress.com/item/33021202630.html)
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
-- [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
+
 
 You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.
 
@@ -51,8 +54,8 @@ The case was originally designed to fit the smaller SS12D00G3 switches, but now 
 
 ### But what about the BNO08X? 
 Sadly as of now it is virtually impossible to get a BNO chip at a reasonable price.
-For that reason this case does not ***yet*** officially support the BNO08X chips.
-If it does fit please let me know through Discord. I'm [@Smeltie#1999](https://discord.gg/SlimeVR) on the [Official SlimeVR Discord server](https://discord.gg/SlimeVR).
+For that reason I can't personally test these components yet.  
+However there is currently an untested set of trays that should work, I have yet to have someone confirm this for me though.
 
 
 ## Versions
@@ -61,9 +64,9 @@ There are a lot of different .STL files included in this project, as the Hyperio
 The names of the files indicate what the parts are for and which features they incorporate.  
 To clarify some of the terminology, the file name may have a reference to the following:
 
-- *AUX*: This part has an opening for a ribbon/JST cable to an Extension.
+- *AUX*: This part has an opening for a ribbon/JST cable to an Extension.  
+- *BNO08x*: This means the part is meant for BNO08x or MPU 9250/6500 chips
 - *503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).
-- *804040*: This means the part is meant for batteries that are 8x40x40mm (based on that batteries sizing).
 - *SS22F32*: This indicates the part was designed for the switches mentioned in the docs.
 - *Slime*: This part has the SlimeVR logo on it, mostly for the lid.
 - *Blank*: This part has no print or logo on it, mostly for the lid.
