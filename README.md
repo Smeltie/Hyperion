@@ -28,7 +28,7 @@ For the Hyperion you will need the following components:
 - [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
 - [IMU](https://docs.slimevr.dev/components-guide.html) (*BNO08x chips are currently in a pretty bad shortage*)
     - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)  
-    - [BNO08x (Sold out!)](https://docs.slimevr.dev/components-guide.html)
+    - [BNO08x](https://docs.slimevr.dev/components-guide.html)
 - [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
     - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
     - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
@@ -51,11 +51,6 @@ Be aware that if you use a smaller battery you may have to fill up the space a l
   
 Hyperion also supports various switch types.  
 The case was originally designed to fit the smaller SS12D00G3 switches, but now also supports the SS22F32 (SS12F32 also works).
-
-### But what about the BNO08X? 
-Sadly as of now it is virtually impossible to get a BNO chip at a reasonable price.
-For that reason I can't personally test these components yet.  
-However there is currently an untested set of trays that should work, I have yet to have someone confirm this for me though.
 
 
 ## Versions
