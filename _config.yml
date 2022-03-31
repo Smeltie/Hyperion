@@ -1,0 +1,5 @@
+remote_theme: pmarsceill/just-the-docs
+markdown: kramdown
+title: SlimeVR Docs
+description: Hyperion, the most popular DIY SlimeVR case out there!
+footer_content: "Hyperion is created under an MIT License<br><strong>Github Repo: </strong><a href='https://github.com/smeltie/hyperion'>https://github.com/smeltie/hyperion</a><br><strong>Docs Github Repo: </strong><a href='https://github.com/smeltie/hyperion'>https://github.com/smeltie/hyperion</a><br><strong>Discord: </strong><a href='https://discord.gg/SlimeVR'>https://discord.gg/SlimeVR</a>"
