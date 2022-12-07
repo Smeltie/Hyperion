@@ -31,10 +31,10 @@ For the Hyperion you will need the following components:
     - [BNO08x](https://docs.slimevr.dev/components-guide.html)
 - [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
     - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
-    - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
+    - [SS22F32](https://www.aliexpress.com/wholesale?SearchText=SS22F32)
 - [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
-    - [804040](https://www.aliexpress.com/item/33021202630.html)
-    - [503759](https://www.aliexpress.com/item/1005003257130562.html)
+    - [804040](https://www.aliexpress.com/wholesale?SearchText=804040)
+    - [503759](https://www.aliexpress.com/wholesale?SearchText=503759)
 
 
 You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.
