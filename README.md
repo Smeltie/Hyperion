@@ -61,6 +61,7 @@ To clarify some of the terminology, the file name may have a reference to the fo
 
 - *AUX*: This part has an opening for a ribbon/JST cable to an Extension.  
 - *BNO08x*: This means the part is meant for BNO08x or MPU 9250/6500 chips
+- *BMI160*: This means the part is meant for BMI160 chips
 - *503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).
 - *SS22F32*: This indicates the part was designed for the switches mentioned in the docs.
 - *Slime*: This part has the SlimeVR logo on it, mostly for the lid.
@@ -166,7 +167,7 @@ Here are some useful and fun resources:
 
 ## Contributors
 I want to put out a sincere thank you to all the people that have helped and tested/measured out various items for this project.  
-Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper and Lemming.
+Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper, Lemming and SuchMeme.
 
 ## Contact
 If you experience any problems with your Hyperion or have any questions/suggestions?
