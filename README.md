@@ -7,7 +7,6 @@ With its completely tool-less design and tolerances fine tuned specifically for 
 
 ![case](https://i.imgur.com/9vDfYJD.gif)
 
-
 ## Index
 - [Components](#Components)
 - [Compatibility](#Compatibility)
@@ -27,7 +26,7 @@ For the Hyperion you will need the following components:
 - [Wemos D1 Mini](https://www.aliexpress.com/wholesale?SearchText=D1+mini)
 - [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
 - [IMU](https://docs.slimevr.dev/components-guide.html) (*BNO08x chips are currently in a pretty bad shortage*)
-    - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)  
+    - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)
     - [BNO08x](https://docs.slimevr.dev/components-guide.html)
 - [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
     - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
@@ -35,7 +34,6 @@ For the Hyperion you will need the following components:
 - [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
     - [804040](https://www.aliexpress.com/wholesale?SearchText=804040)
     - [503759](https://www.aliexpress.com/wholesale?SearchText=503759)
-
 
 You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.
 
@@ -48,25 +46,24 @@ You can also order these parts elsewhere through sites like Amazon with a higher
 The Hyperion case offers compatibility for various battery types, for example the 503759 supports any battery that is equal to or smaller than 5x37x59mm.  
 Please keep in mind your battery size when planning a build, in this example if you are not using a 503759 or 804040 but your battery is smaller it will still work with this design.  
 Be aware that if you use a smaller battery you may have to fill up the space a little bit to prevent the battery from sliding around, while a 503450 would fit just fine.  
-  
-Hyperion also supports various switch types.  
-The case was originally designed to fit the smaller SS12D00G3 switches, but now also supports the SS22F32 (SS12F32 also works).
 
+Hyperion also supports various switch types.
+The case was originally designed to fit the smaller SS12D00G3 switches, but now also supports the SS22F32 (SS12F32 also works).
 
 ## Versions
 
 There are a lot of different .STL files included in this project, as the Hyperion supports multiple Battery sizes and separate AUX/extension versions of each case and lid.  
-The names of the files indicate what the parts are for and which features they incorporate.  
+The names of the files indicate what the parts are for and which features they incorporate.
 To clarify some of the terminology, the file name may have a reference to the following:
 
-- *AUX*: This part has an opening for a ribbon/JST cable to an Extension.  
-- *BNO08x*: This means the part is meant for BNO08x or MPU 9250/6500 chips
-- *BMI160*: This means the part is meant for BMI160 chips
+- *AUX*: This part has an opening for a ribbon/JST cable to an Extension.
+- *BNO08x*: This means the part is meant for BNO08x or MPU 9250/6500 chip.
+- *BMI160*: This means the part is meant for BMI160 chips.
 - *503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).
 - *SS22F32*: This indicates the part was designed for the switches mentioned in the docs.
 - *Slime*: This part has the SlimeVR logo on it, mostly for the lid.
 - *Blank*: This part has no print or logo on it, mostly for the lid.
-
+- *V4*: This part is meant for WEMOS D1 Mini V4.0.0(no components on the bottom)
 
 ### So which parts do i need?
 Of course this is totally dependent on the battery and switch you chose, however you will have to print at least 4 components per tracker, which are:
@@ -75,7 +72,6 @@ Of course this is totally dependent on the battery and switch you chose, however
 - Tray
 - Lid
 - Switch (*if you opted for the SS12D00G3*)
-
 
 So for example, you bought a 503739 (or smaller) battery, you would need the following:
 
@@ -92,7 +88,6 @@ You would need the following:
 - *Lid_503759_AUX.stl*
 
 *The tray is not dependent on the AUX/Extension feature.*
-
 
 ## Printing
 It is heavily suggested to print these components on an FDM (Filament based) 3D printer such as the Ender 3 or similar, as all the tolerances have been adjusted to accommodate a wide variety of FDM printers.
@@ -121,7 +116,6 @@ The switch is a little small and harder to print, however it is doable with the 
 *Take your time and take it slow, I've printed more than a handfull now.*
 *Don't print in the middle because on many printers that's a low spot, and this would hinder the adhesion needed to keep this little part stuck down.*
 
-
 ## Assembly
 
 ![output](https://user-images.githubusercontent.com/38034111/148065707-96a622b4-d118-4901-adf6-c36dceab3feb.gif) 
@@ -136,11 +130,9 @@ I suggest soldering things out of the case and using the case/tray as a referenc
 
 Excess wire length may cause issues with the fit, however there should be more than enough space for wires in the case. You don't have to make them extremely short just keep it manageable.
 
-
 #### The Switch
 After printing the switch the bottom layer of the hole might be a little too tight due to elephant's foot or squish.
 In this case you can take a hobby knife or similar and slightly open that first layer up a little bit.
-
 
 #### The Lid
 To install the lid it is best practice to place the lid on the case at an angle with the back side first (vents) so that the notches align. Then lower the front and snap it shut.
@@ -148,11 +140,8 @@ To remove the lid again place a fingernail or a pry tool between the lid and the
 
 ![The lid](https://i.imgur.com/p8z1lyn.gif)
 
-
 #### The Strap
 The strap is meant to be run underneath the tracker, otherwise the powerswitch will be obstructed.
-
-
 
 ## Links
 Here are some useful and fun resources:
@@ -167,7 +156,7 @@ Here are some useful and fun resources:
 
 ## Contributors
 I want to put out a sincere thank you to all the people that have helped and tested/measured out various items for this project.  
-Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper, Lemming and SuchMeme.
+Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper, Lemming, Lafi and SuchMeme.
 
 ## Contact
 If you experience any problems with your Hyperion or have any questions/suggestions?
