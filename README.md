@@ -25,47 +25,24 @@ For the Hyperion you will need the following components:
 
 - [TP4056](https://www.aliexpress.com/item/32649780468.html)
 - [Wemos D1 Mini](https://www.aliexpress.com/wholesale?SearchText=D1+mini)
-- [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
-- [IMU](https://docs.slimevr.dev/components-guide.html) (*BNO08x chips are currently in a pretty bad shortage*)
-    - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)  
-    - [BNO08x](https://docs.slimevr.dev/components-guide.html)
+- [50mm straps](https://www.amazon.com/dp/B09T5YDMTR)
+- [SlimeVR BNO085](https://shop.slimevr.dev/products/slimevr-imu-module-bno085)
 - [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
     - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
     - [SS22F32](https://www.aliexpress.com/wholesale?SearchText=SS22F32)
-- [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
-    - [804040](https://www.aliexpress.com/wholesale?SearchText=804040)
-    - [503759](https://www.aliexpress.com/wholesale?SearchText=503759)
+- [Battery](https://www.amazon.com/dp/B088YKPZ9D/)
 
 
 You can also order these parts elsewhere through sites like Amazon with a higher markup which may arrive much faster for a higher cost.
 
-*The straps from the SlimeVR docs are only 25mm wide, while the Hyperion is designed to fit up to 40mm straps for extra stability.*
+*The straps from the SlimeVR docs are only 25mm wide, while the Hyperion is designed to fit up to 50mm straps for extra stability.*
 *Be aware that there are different versions of the TP4056 which are smaller and have less soldering pads, avoid these.*  
 *The Micro-USB version of the TP4056 does work but isn't recommended.*
 
 ## Compatibility
 
-The Hyperion case offers compatibility for various battery types, for example the 503759 supports any battery that is equal to or smaller than 5x37x59mm.  
-Please keep in mind your battery size when planning a build, in this example if you are not using a 503759 or 804040 but your battery is smaller it will still work with this design.  
-Be aware that if you use a smaller battery you may have to fill up the space a little bit to prevent the battery from sliding around, while a 503450 would fit just fine.  
-  
-Hyperion also supports various switch types.  
+Hyperion also various switch types.  
 The case was originally designed to fit the smaller SS12D00G3 switches, but now also supports the SS22F32 (SS12F32 also works).
-
-
-## Versions
-
-There are a lot of different .STL files included in this project, as the Hyperion supports multiple Battery sizes and separate AUX/extension versions of each case and lid.  
-The names of the files indicate what the parts are for and which features they incorporate.  
-To clarify some of the terminology, the file name may have a reference to the following:
-
-- *AUX*: This part has an opening for a ribbon/JST cable to an Extension.  
-- *BNO08x*: This means the part is meant for BNO08x or MPU 9250/6500 chips
-- *BMI160*: This means the part is meant for BMI160 chips
-- *503759*: This means the part is meant for batteries that are 5x37x59mm (based on that batteries sizing).
-- *SS22F32*: This indicates the part was designed for the switches mentioned in the docs.
-- *Slime*: This part has the SlimeVR logo on it, mostly for the lid.
-- *Blank*: This part has no print or logo on it, mostly for the lid.
 
 
 ### So which parts do i need?
