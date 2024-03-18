@@ -3,7 +3,7 @@
 # Hyperion case for DIY SlimeVR!
 
 The Hyperion is one of the smallest and slimmest cases to date for your DIY SlimeVR Trackers. <br>
-With its completely tool-less design and tolerances fine tuned specifically for FDM 3D Printers, the Hyperion is both easy to print and assemble! Every part is carefully thought out and clicks together with a satisfying snap, while offering support for various Battery sizes, switches and components.
+With its completely tool-less design and tolerances fine tuned specifically for FDM 3D Printers, the Hyperion is both easy to print and assemble! Every part is carefully thought out and clicks together with a satisfying snap. This version is specifically designed for 903052 batteries, and fits 50mm straps.
 
 ![case](https://i.imgur.com/9vDfYJD.gif)
 
