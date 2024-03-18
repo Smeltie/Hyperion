@@ -73,7 +73,7 @@ You would need the following:
 
 ## Printing
 It is heavily suggested to print these components on an FDM (Filament based) 3D printer such as the Ender 3 or similar, as all the tolerances have been adjusted to accommodate a wide variety of FDM printers.
-Personally I printed my parts on a slightly modified Ender3 V2 using E-Sun PLA+ (gray) with a stock 0.4mm nozzle.
+Personally I printed my parts on a slightly modified Ender3 PLA with a stock 0.4mm nozzle. I also had to scale up the print in Cura by an additional 3% due to printer imperfections.
 
 In terms of the printing itself, these parts don't need any support.
 Orientation wise the case, tray and switch can be printed as is.
