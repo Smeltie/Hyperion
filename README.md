@@ -147,7 +147,8 @@ I want to put out a sincere thank you to all the people that have helped and tes
 Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper, Lemming and SuchMeme.
 
 ## Contact
-This version of Hyperion was specifically modified by me for my own set of hardware. If you hardware in any way differs, please refer to the [original branch](https://github.com/Smeltie/Hyperion).
+This version of Hyperion was specifically modified by me for my own set of hardware. If your hardware in any way differs, please refer to the [original branch](https://github.com/Smeltie/Hyperion).
+
 If Smeltie see's this and would like to merge this modified version into the main branch, I give full permission to do so.
 
 ## License
