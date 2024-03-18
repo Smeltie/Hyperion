@@ -147,10 +147,8 @@ I want to put out a sincere thank you to all the people that have helped and tes
 Thank you: Pjesek, Dinnerbone, Don, Sythe, CalliePepper, Lemming and SuchMeme.
 
 ## Contact
-If you experience any problems with your Hyperion or have any questions/suggestions?
-Feel free to reach out through either Discord I'm [@Smeltie#1999](https://discord.gg/SlimeVR) on the official [SlimeVR Discord server](https://discord.gg/SlimeVR).
-You can also shoot me an email: [SmeltieVR@gmail.com](mailto:smeltievr@gmail.com)
-If you want to help out with the project or have/want to make a version for a different set of hardware you're more than welcome to send it over or do a merge request!
+This version of Hyperion was specifically modified by me for my own set of hardware. If you hardware in any way differs, please refer to the [original branch](https://github.com/Smeltie/Hyperion).
+If Smeltie see's this and would like to merge this modified version into the main branch, I give full permission to do so.
 
 ## License
 This project is licensed under the MIT license.
